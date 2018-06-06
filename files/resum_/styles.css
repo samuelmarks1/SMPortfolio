@@ -1,0 +1,130 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1250px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1246px;
+  height:166px;
+}
+#u0_input {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1246px;
+  height:166px;
+  overflow:auto;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1250px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+}
+#u0_input.a {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1246px;
+  height:166px;
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1000px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.b {
+  width:996px;
+}
+#u0_input.b {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:996px;
+  height:166px;
+}
+body.c {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:640px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.c {
+  width:636px;
+}
+#u0_input.c {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:636px;
+  height:166px;
+}
+body.d {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:400px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.d {
+  width:396px;
+}
+#u0_input.d {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:396px;
+  height:166px;
+}
+body.e {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:280px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.e {
+  width:276px;
+}
+#u0_input.e {
+  border-width:2px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:276px;
+  height:166px;
+}
